@@ -1,1 +1,1 @@
-To take backup of instance of EC2
+To take backup of instance of EC2 as AMi
